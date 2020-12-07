@@ -176,3 +176,33 @@ h3 {
   letter-spacing: 0.1rem;
 }
 /* /topic02------------------------- */
+/* topic03------------------------- */
+.topic03 {
+  background-color: #fcf5f1;
+}
+.topic03 table {
+  width: 100%;
+  margin: 0 auto;
+}
+.topic03 th {
+  padding: 10px 0;
+  text-align: left;
+}
+.topic03 td {
+  padding-left: 70px;
+}
+.topic03 .btn {
+  margin-top: 70px;
+}
+.topic03 .btn a {
+  display: block;
+  font-size: 0.8rem;
+  color: #ffffff;
+  background-color: #5d3c28;
+  width: 240px;
+  line-height: 60px;
+  text-align: center;
+  margin: 0 auto 120px;
+  letter-spacing: 0.1rem;
+}
+/* /topic03------------------------- */
