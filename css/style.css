@@ -206,3 +206,35 @@ h3 {
   letter-spacing: 0.1rem;
 }
 /* /topic03------------------------- */
+/* location------------------------- */
+.location {
+  padding: 4% 0;
+}
+.location .topics-wrapper {
+  align-items: center;
+}
+.location .location-info h3 {
+  font-size: 36px;
+  color: #5d3c28;
+}
+.location .location-info {
+  width: 60%;
+}
+.location .location-map {
+  width: 50%;
+}
+iframe {
+  width: 100%;
+}
+/* /location------------------------- */
+/* footer------------------------- */
+footer {
+  background-color: #210e03;
+  text-align: center;
+  padding: 26px 0;
+}
+footer p {
+  color: #fff;
+  font-size: 0.875rem;
+}
+/* /footer------------------------- */
